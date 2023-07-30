@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.lab4_ph34899.R;
+import com.example.lab4_ph34492.R;
 
 public class Fragment2 extends Fragment {
     @Override

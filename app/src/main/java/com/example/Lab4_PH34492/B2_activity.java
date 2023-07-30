@@ -5,7 +5,7 @@ import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
 
-import com.example.lab4_ph34899.R;
+import com.example.lab4_ph34492.R;
 
 public class B2_activity extends AppCompatActivity implements Fragment2_b2.Isendata {
 
